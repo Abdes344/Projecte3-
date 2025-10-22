@@ -58,16 +58,17 @@ El generador de contrasenyes permet triar la longitud desitjada i incloure carà
 \- Gestió de Còpies de Seguretat (Backup):
 
 Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).  
-![][image7]![][image8]  
+![imatge](/Tasca01/IMG/7.png)
+![imatge](/Tasca01/IMG/8.png)  
 El que tindrem que fer sera entrar a l'aplicació de BitWarden i ens dirigirem adalt a l'esquerra on l’apartat de archivo entrarem a l’apartat de exportar caja fuerte. 
 
-![][image9]   
+![imatge](/Tasca01/IMG/9.png)   
 Després de entrar en aquell apartat en sortirà aquest menú de aquí i no tindrem que tocar res ja que el .json es el que ve per defecte i el deixarem així
 
-![][image10]    
+![imatge](/Tasca01/IMG/10.png)    
 Aquí ficarem la nostra contraseña maestra per poder continuar 
 
-![][image11]  
+![imatge](/Tasca01/IMG/11.png) 
 I per acabar el que tindrem que fer sera guardar l'arxiu en un USB segur 
 
 Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
