@@ -33,27 +33,27 @@ Recomanació:
 Recomano Bitwarden perquè combina sincronització automàtica, accés fàcil des de qualsevol dispositiu i xifratge end-to-end, oferint una solució segura i còmoda. Això facilita la gestió de contrasenyes per al personal tècnic sense complicacions ni riscos associats a la sincronització manual.
 
 Fase 2: Guia d'ús tècnic   
-![][image1]  
+![imatge](/Tasca01/IMG/1.png)  
 Al entrar a BitWarden ens demana iniciar sesión pero al entrar per primera vegada tindrem que crearse un compte   
-![][image2]  
+![imatge](/Tasca01/IMG/2.png)  
 Aquí després de iniciar sessió ja estarem dintre en el menú principal 
 
-![][image3]  
+![imatge](/Tasca01/IMG/3.png)  
 El generador de contrasenyes permet triar la longitud desitjada i incloure caràcters especials, números i majúscules per augmentar la seguretat. Configura els paràmetres segons les necessitats i prem generar. Així obtindràs una contrasenya forta i aleatòria.
 
 \- Exemples d'Ús i Emplenament Automàtic:
 
 \- Com desar una credencial d'un compte de correu electrònic.
 
-![][image4]
+![imatge](/Tasca01/IMG/4.png)
 
 \- Com desar una credencial d'una aplicació o servei web.
 
-![][image5]
+![imatge](/Tasca01/IMG/5.png)
 
 	  
 \- Com fer servir l’extensió del navegador per emplenar automàticament les dades  
-![][image6]
+![imatge](/Tasca01/IMG/6.png)
 
 \- Gestió de Còpies de Seguretat (Backup):
 
