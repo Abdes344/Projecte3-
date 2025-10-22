@@ -70,6 +70,7 @@ El generador de contrasenyes permet triar la longitud desitjada i incloure carà
 Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).  
 ![imatge](/Tasca01/IMG/7.png)
 ![imatge](/Tasca01/IMG/8.png) 
+
 El que tindrem que fer sera entrar a l'aplicació de BitWarden i ens dirigirem adalt a l'esquerra on l’apartat de archivo entrarem a l’apartat de exportar caja fuerte. 
 
 ---
