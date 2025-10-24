@@ -94,5 +94,6 @@ Dins el repositori del **projecte-3**, heu de crear una carpeta anomenada **`tas
 🔗 **Pàgina oficial de KeePassXC**  
 🔗 **INCIBE:** Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas
 
-[Tasca01](/Tasca01/guia.md/)
-[Tasca01](/Tasca01/informe.md/)
+[Guia 📘](/Tasca01/guia.md/)
+
+[Informe 📝](/Tasca01/informe.md/)
