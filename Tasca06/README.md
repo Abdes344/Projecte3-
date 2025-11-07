@@ -38,19 +38,11 @@ Adaptador pont amb IP correctament configurada segons indicacions dels vostres r
 
 ### 🖥️ Diagnosi Avançada amb dig (Linux / macOS)
 
-| Comanda | Objectiu | Anàlisi |
-|---------|----------|---------|
-|
-dig xtec.cat A
-| Consulta bàsica de registre A | Identifica la IP de resposta, el valor TTL i el servidor que ha respost. |
-|
-dig tecnocampus.cat NS
-| Consulta de servidors de noms | Quins són els servidors de noms autoritatius per a aquest domini? |
-|
-dig escolapia.cat SOA
-| Consulta detallada SOA | Quina és la informació del correu de l'administrador i el número de sèrie del domini? |
-|
-dig -x 147.83.2.135
-| Consulta de resolució inversa | Quina informació sobre els registres s’obté? |
+| Comanda                   | Tipus de consulta               | Què s’ha d’identificar?                                                          |
+|---------------------------|----------------------------------|-----------------------------------------------------------------------------------|
+| `dig xtec.cat A`          | Consulta bàsica de registre A    | Identificar la **IP de resposta**, el **TTL** i el **servidor** que ha respost.   |
+| `dig tecnocampus.cat NS`  | Consulta de servidors de noms    | Determinar els **servidors de noms autoritatius** del domini.                    |
+| `dig escolapia.cat SOA`   | Consulta detallada SOA           | Obtenir el **correu de l'administrador** i el **número de sèrie** del domini.    |
+| `dig -x 147.83.2.135`     | Consulta de resolució inversa    | Identificar la **informació obtinguda sobre els registres PTR** (resolució inversa). |
 
 ---
