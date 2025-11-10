@@ -2,8 +2,8 @@
 
 ### ⏱️ Duració: 10:00 Min
 ### 💻 Autors:
-Abdeslam Khfif
-Ferran Cuenca
+Abdeslam Khfif,
+Ferran Cuenca,
 Edu Gordo
 
 ---
