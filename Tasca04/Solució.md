@@ -62,7 +62,8 @@ Després ficarem la següent comanda *ldapsearch dapadd \-D “cn=admin,dc=innov
 ---
 
 ![imatge](/Tasca04/LDAP/22.png) 
-Revisem si els OUs s'ha creat bé amb la comanda “ ldapsearch \-xLLL \-b “dc=innovatech13,dc=test” 
+Per gestionar i administrar el (LAM) entrarem al gestor gràfic desde Google amb l'URL següent   
+[http://192.168.56.104/lam/templates/login.php](http://192.168.56.104/lam/templates/login.php)
 
 ---
 
