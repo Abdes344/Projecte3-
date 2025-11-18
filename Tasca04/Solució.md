@@ -74,17 +74,16 @@ Ara entrarem en el apartat que diu “edit server profiles”
 
 ![imatge](/Tasca04/LDAP/24.png)  
 Aquí per entrar ficarem la contrasenya “lam”, ja que es la que bé per defecte 
+
 ---
 
 ![imatge](/Tasca04/LDAP/25.png)  
+![imatge](/Tasca04/LDAP/26.png)   
 Aquí modificarem el idioma, Compte i el admin
+
 ---
 
-![imatge](/Tasca04/LDAP/26.png)  
-![imatge](/Tasca04/LDAP/27.png)  
-Després anirem a “tipos de cuenta” i configurarem els OUs pels grups i usuaris
----
-
+![imatge](/Tasca04/LDAP/27.png)
 ![imatge](/Tasca04/LDAP/28.png)  
 Després anirem a “tipos de cuenta” i configurarem els OUs pels grups i usuaris  
 
@@ -106,6 +105,7 @@ Tot seguit, configurarem el hostname i asignarem un nom a l’ip del nostre serv
 ---
 
 ![imatge](/Tasca04/LDAP/34.png)
+
 Per veure el hostname haurem d'utilitzar la següent comanda
 
 ---
@@ -154,5 +154,3 @@ Y per finalitzar al entrar al tech01 anem a la terminal y fiquem id y ens te que
 I per finalitzar al entrar al manager01 anem a la terminal i fiquem id i en te que ficar el que hi ha a la pantalla 
 
 ---
-
-![imatge](/Tasca04/LDAP/46.png)  
