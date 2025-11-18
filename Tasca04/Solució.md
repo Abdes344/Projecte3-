@@ -24,11 +24,11 @@ Ara amb les comandes “Hostname i “Hostname \-f” comprovarem que tenim conf
 
 ![imatge](/Tasca04/LDAP/7.png)  
 ![imatge](/Tasca04/LDAP/8.png)  
+![imatge](/Tasca04/LDAP/9.png) 
 Amb Aquesta Comanda “Sudo apt install slapd ldap-utils \-y” instalarem el servei LDAP
 
----
 
-![imatge](/Tasca04/LDAP/9.png)  
+
 Després de instal·lar el servei LDAP comprovarem si tot està correcta i funciona correctament 
 
 ---
@@ -56,7 +56,7 @@ El client, ens demana crear dues Unitats Organitzatives ara crearem amb extensi�
 ---
 
 ![imatge](/Tasca04/LDAP/20.png)  
-Després ficarem la següent comanda *ldapsearch dapadd \-D “cn=admin,dc=innovatech14,dc=test” \-W \-f OU\_users.ldif*
+Després ficarem la següent comanda *ldapsearch dapadd \-D “cn=admin,dc=innovatech13,dc=test” \-W \-f OU\_users.ldif*
 
 ---
 
