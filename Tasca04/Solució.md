@@ -41,11 +41,12 @@ Després de instal·lar el servei LDAP comprovarem si tot està correcta i funci
 ![imatge](/Tasca04/LDAP/15.png)
 ![imatge](/Tasca04/LDAP/16.png) 
 ![imatge](/Tasca04/LDAP/17.png) 
+![imatge](/Tasca04/LDAP/18.png) 
 Amb la Comanda “Sudo dpkg-reconfigure slapd” reconfigurarem el servei”.
 
 ---
 
-![imatge](/Tasca04/LDAP/18.png)  
+![imatge](/Tasca04/LDAP/19.png)  
 Ara comprovem que el directori s'ha creat correctament 
 
 ---
