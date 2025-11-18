@@ -28,12 +28,11 @@ Ara amb les comandes “Hostname i “Hostname \-f” comprovarem que tenim conf
 Amb Aquesta Comanda “Sudo apt install slapd ldap-utils \-y” instalarem el servei LDAP
 
 
-
+![imatge](/Tasca04/LDAP/10.png)
 Després de instal·lar el servei LDAP comprovarem si tot està correcta i funciona correctament 
 
 ---
-   
-![imatge](/Tasca04/LDAP/10.png)  
+
 ![imatge](/Tasca04/LDAP/11.png)  
 ![imatge](/Tasca04/LDAP/12.png)
 ![imatge](/Tasca04/LDAP/13.png)
