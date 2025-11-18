@@ -51,7 +51,7 @@ Ara comprovem que el directori s'ha creat correctament
 
 ---
 
-![imatge](/Tasca04/LDAP/19.png)  
+![imatge](/Tasca04/LDAP/20.png)  
 El client, ens demana crear dues Unitats Organitzatives ara crearem amb extensió “.ldif”: *sudo nano OU\_users.ldif*
 
 ---
