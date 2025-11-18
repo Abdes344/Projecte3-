@@ -68,25 +68,21 @@ Per gestionar i administrar el (LAM) entrarem al gestor gràfic desde Google amb
 ---
 
 ![imatge](/Tasca04/LDAP/23.png) 
-Per gestionar i administrar el (LAM) entrarem al gestor gràfic desde Google amb l'URL següent   
-[http://192.168.56.104/lam/templates/login.php](http://192.168.56.104/lam/templates/login.php)
-
----
-
-![imatge](/Tasca04/LDAP/24.png)  
 Ara entrarem en el apartat que diu “edit server profiles”
 
 ---
 
-![imatge](/Tasca04/LDAP/25.png)  
+![imatge](/Tasca04/LDAP/24.png)  
 Aquí per entrar ficarem la contrasenya “lam”, ja que es la que bé per defecte 
+---
 
+![imatge](/Tasca04/LDAP/25.png)  
+Aquí modificarem el idioma, Compte i el admin
 ---
 
 ![imatge](/Tasca04/LDAP/26.png)  
 ![imatge](/Tasca04/LDAP/27.png)  
-Aquí modificarem el idioma, Compte i el admin
-
+Després anirem a “tipos de cuenta” i configurarem els OUs pels grups i usuaris
 ---
 
 ![imatge](/Tasca04/LDAP/28.png)  
